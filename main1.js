@@ -12,28 +12,30 @@
 
 // var fs = require('fs') //core module import
 
-// fs.writeFileSync("chachi.txt" , "Toushik wants to intimate with his chachi.")
+// fs.writeFileSync("chachi.txt" , "Toushik wants to in...... with his chachi.")
 
 // var a = 2
 
-function add(a) {
-    console.log(a +" loves chachi")
-}
+// function add(a) {
+//     console.log(a +" loves chachi")
+// }
+
+// add("Kanti")
 
 // console.log(a)
 
-add("Kanti")
 
 var c = 12
 let a = 3
 const b = 4
 
-// c=20
-a=22
+c=20
+a=21
+// b=7
 
 console.log(b ,a , c)
 
-if (a == 22) {
+if (a == 28) {
 
     console.log("Toushik's father is Mriganka");    
 }
@@ -52,29 +54,29 @@ if (a == 22) {
 //     i=i+1;
 // }
 
-let arr = ["chachi", "chachato bon", "khalato bon"]
-console.log(arr);
+// let arr = ["chachi", "chachato bon", "khalato bon"]
+// console.log(arr);
 
 
 // arr.forEach(element => {
 //     console.log(element)
 // });
 
-for (let index = 0; index < arr.length; index++) {
-    console.log(arr[index])
+// for (let index = 0; index < arr.length; index++) {
+//     console.log(arr[index])
     
-}
+// }
 
 
-const{log, warn} = require("console")
+// const{log, warn} = require("console")
 
-log("Adhip")
-warn("chachi")
+// log("Adhip")
+// warn("chachi")
 
 
-console.log(process.cwd())
-console.log(process.pid) 
+// console.log(process.cwd())
+// console.log(process.pid) 
 
-let {ca} = require ('./export')
+// let {ca} = require ('./export')
 
-console.log(ca);
+// console.log(ca);
