@@ -25,20 +25,20 @@
 // console.log(a)
 
 
-var c = 12
-let a = 3
-const b = 4
+// var c = 12
+// let a = 3
+// const b = 4
 
-c=20
-a=21
+// c=20
+// a=21
 // b=7
 
-console.log(b ,a , c)
+// console.log(b ,a , c)
 
-if (a == 28) {
+// if (a == 28) {
 
-    console.log("Toushik's father is Mriganka");    
-}
+//     console.log("Toushik's father is Mriganka");    
+// }
 
 
 // for (let index = 1; index < 11; index++) {
@@ -54,8 +54,8 @@ if (a == 28) {
 //     i=i+1;
 // }
 
-// let arr = ["chachi", "chachato bon", "khalato bon"]
-// console.log(arr);
+let arr = ["chachi", "chachato bon", "khalato bon"]
+// console.log(arr[1]);
 
 
 // arr.forEach(element => {
